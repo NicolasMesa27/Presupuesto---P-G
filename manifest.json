@@ -1,0 +1,14 @@
+{
+  "name": "Rentabilidad & P&G",
+  "short_name": "P&G Taller",
+  "description": "Calculadora de rentabilidad y P&G para tu taller de cambios de aceite",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0c0f",
+  "theme_color": "#0a0c0f",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
